@@ -1,16 +1,22 @@
-### Hi there 👋
+👋 Hello, I'm DIBEK TODI!
 
-<!--
-**Dibek1910/Dibek1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Engineer | Web Developer | Flutter Developer
 
-Here are some ideas to get you started:
+🌟 Passionate about creating elegant and efficient web applications using modern technologies. I love turning ideas into reality and constantly seeking ways to improve user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 As a Flutter developer, I enjoy building cross-platform mobile applications that are visually appealing and deliver seamless performance. Flutter's flexibility and hot-reload feature allow me to iterate quickly and deliver high-quality apps.
+
+🎓 I hold a degree in Computer Science Engineering and have a strong foundation in algorithms, data structures, and software development principles. Continuously learning and staying up-to-date with the latest industry trends and advancements is my priority.
+
+⚙️ Tech Stack:
+Front-end: HTML, CSS, JavaScript, React.js
+Back-end: Node.js, Express.js, Python
+Mobile: Flutter, Dart
+Database: MongoDB, MySQL
+Version Control: Git
+
+🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me for any collaborations or discussions.
+
+📫 You can reach me via email at kooldibek138a@gmail.com or connect with me on LinkedIn. I'm always open to new opportunities and connecting with fellow developers.
+
+Happy coding! 😄

@@ -10,9 +10,13 @@
 
 ⚙️ Tech Stack:
 Front-end: HTML, CSS, JavaScript, React.js
+
 Back-end: Node.js, Express.js, Python
+
 Mobile: Flutter, Dart
+
 Database: MongoDB, MySQL
+
 Version Control: Git
 
 🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me for any collaborations or discussions.

@@ -9,15 +9,17 @@
 🎓 I hold a degree in Computer Science Engineering and have a strong foundation in algorithms, data structures, and software development principles. Continuously learning and staying up-to-date with the latest industry trends and advancements is my priority.
 
 ⚙️ Tech Stack:
-Front-end: HTML, CSS, JavaScript, React.js
+Programming Languages: C/C++, Python
 
-Back-end: Node.js, Express.js, Python
+Web Development: HTML, CSS, JavaScript
 
-Mobile: Flutter, Dart
+Mobile App Development: Flutter (Dart)
 
-Database: MongoDB, MySQL
+Database Management: MongoDB, MySQL
 
-Version Control: Git
+Frameworks: Flutter, NodeJS, Machine Learning ( Numpy, Pandas, Sci-kit Learn, TensorFlow)
+
+Tools & Technologies: Git, Visual Studio Code (VSCode), Android Studio, APIs, Firebase
 
 🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me for any collaborations or discussions.
 

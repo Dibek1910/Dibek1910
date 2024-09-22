@@ -18,6 +18,6 @@ Frameworks: Flutter, NodeJS, Machine Learning (NumPy, Pandas, Scikit-Learn, Tens
 Tools & Technologies: Git, Visual Studio Code (VSCode), Android Studio, APIs, Firebase, Jupyter, Jenkins
 🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me for any collaborations or discussions.
 
-📫 You can reach me via email at kooldibek138a@gmail.com or connect with me on LinkedIn. I'm always open to new opportunities and connecting with fellow developers.
+📫 You can reach me via email at kooldibek138a@gmail.com or connect with me on LinkedIn(https://www.linkedin.com/in/dibek-todi/). I'm always open to new opportunities and connecting with fellow developers.
 
 Happy coding! 😄
